@@ -1,0 +1,20 @@
+{
+  "title": "LUMEN",
+  "tagline": "Guía el enjambre. Escapa de las sombras.",
+  "tapToPlay": "Toca y arrastra para guiar",
+  "hint": "Arrastra para guiar el enjambre, recoge las chispas y esquiva las sombras",
+  "score": "Puntos",
+  "peak": "Pico",
+  "best": "Récord",
+  "games": "Partidas",
+  "newRecord": "¡Nuevo récord!",
+  "playAgain": "Jugar de nuevo",
+  "share": "Compartir",
+  "shareText": "¡Guié un enjambre de luces hasta {score} en LUMEN de RoqueOS! ✦ ¿Puedes superarlo?",
+  "shareSaved": "¡Imagen del récord guardada! Compártela con tus amigos.",
+  "paused": "Pausado",
+  "tapToResume": "Toca para continuar",
+  "soundOn": "Sonido activado",
+  "soundOff": "Sonido desactivado",
+  "operationFailed": "No se pudo completar la operación. Inténtalo de nuevo."
+}

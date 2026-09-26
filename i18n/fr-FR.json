@@ -1,0 +1,20 @@
+{
+  "title": "LUMEN",
+  "tagline": "Guidez l'essaim. Fuyez les ombres.",
+  "tapToPlay": "Touchez et glissez pour guider",
+  "hint": "Glissez pour guider l'essaim, récoltez les étincelles et évitez les ombres",
+  "score": "Score",
+  "peak": "Pic",
+  "best": "Record",
+  "games": "Parties",
+  "newRecord": "Nouveau record !",
+  "playAgain": "Rejouer",
+  "share": "Partager",
+  "shareText": "J'ai guidé un essaim de lumières jusqu'à {score} dans LUMEN sur RoqueOS ! ✦",
+  "shareSaved": "Image du record enregistrée ! Partagez-la avec vos amis.",
+  "paused": "En pause",
+  "tapToResume": "Touchez pour reprendre",
+  "soundOn": "Son activé",
+  "soundOff": "Son coupé",
+  "operationFailed": "Impossible de terminer l'opération. Veuillez réessayer."
+}

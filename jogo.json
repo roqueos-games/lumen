@@ -1,0 +1,58 @@
+{
+  "id": "lumen",
+  "slug": "lumen",
+  "versaoDoContrato": 1,
+  "nome": {
+    "pt-BR": "LUMEN",
+    "en-US": "LUMEN",
+    "es-ES": "LUMEN",
+    "fr-FR": "LUMEN",
+    "de-DE": "LUMEN",
+    "ja-JP": "LUMEN",
+    "zh-CN": "LUMEN",
+    "hi-IN": "LUMEN",
+    "ru-RU": "LUMEN",
+    "ar-AR": "LUMEN"
+  },
+  "descricao": {
+    "pt-BR": "Guie um enxame de luzes vivas com flocking real e fuja das sombras",
+    "en-US": "Steer a living swarm of lights with real flocking and outrun the shadows",
+    "es-ES": "Guía un enjambre vivo de luces con flocking real y escapa de las sombras",
+    "fr-FR": "Dirigez un essaim vivant de lumières avec un flocking réel et fuyez les ombres",
+    "de-DE": "Steuere einen lebenden Lichtschwarm mit echtem Flocking und entkomme den Schatten",
+    "ja-JP": "本物の群れ制御で生きた光の群れを操り、影から逃げよう",
+    "zh-CN": "用真实的群集算法引导一群活的光，甩开紧追不放的暗影。",
+    "hi-IN": "असली फ्लॉकिंग के साथ जीवित रोशनी के झुंड को चलाएँ और परछाइयों से बचें",
+    "ru-RU": "Управляйте живым роем огней с настоящим флокингом и уходите от теней",
+    "ar-AR": "وجّه سربًا حيًا من الأضواء بخوارزمية سرب حقيقية واهرب من الظلال"
+  },
+  "seo": {
+    "pt-BR": {
+      "resumo": "Guie um enxame de luzes com flocking de verdade e fuja das sombras. Grátis, em 3D, direto no navegador.",
+      "sobre": "Em Lumen você não controla cada luz: controla para onde o enxame quer ir, e ele se organiza sozinho por regras de flocking — separação, alinhamento e coesão. As sombras perseguem, e enxame apertado demais é enxame fácil de pegar.",
+      "comoJogar": "Mova o ponteiro ou o dedo. O enxame segue com atraso, e esse atraso é o jogo."
+    },
+    "en-US": {
+      "resumo": "Herd a swarm of living lights with real flocking and outrun the shadows. Free 3D, straight in the browser.",
+      "sobre": "In Lumen you do not steer each light: you steer where the swarm wants to go, and it organises itself by flocking rules — separation, alignment, cohesion. The shadows chase, and a swarm packed too tight is a swarm easy to catch.",
+      "comoJogar": "Move the pointer or your finger. The swarm follows with a lag, and that lag is the game."
+    }
+  },
+  "etiquetas": ["Swarm", "Flocking", "3d"],
+  "capa": "public/capa.jpg",
+  "icone": "public/icone.svg",
+  "brilho": "rgba(56, 189, 248, 0.5)",
+  "janela": {
+    "largura": 520,
+    "altura": 760,
+    "minLargura": 340,
+    "minAltura": 540
+  },
+  "aceitaConvite": false,
+  "entraNoPodio": true,
+  "recorde": {
+    "chave": "best",
+    "maiorEMelhor": true
+  },
+  "capacidades": []
+}

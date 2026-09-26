@@ -1,0 +1,20 @@
+{
+  "title": "LUMEN",
+  "tagline": "Guide the swarm. Outrun the shadows.",
+  "tapToPlay": "Touch and drag to guide",
+  "hint": "Drag to guide the swarm, collect the sparks and dodge the shadows",
+  "score": "Score",
+  "peak": "Peak",
+  "best": "Best",
+  "games": "Runs",
+  "newRecord": "New record!",
+  "playAgain": "Play again",
+  "share": "Share",
+  "shareText": "I guided a swarm of lights to {score} in LUMEN on RoqueOS! ✦ Can you beat it?",
+  "shareSaved": "Score image saved! Share it with your friends.",
+  "paused": "Paused",
+  "tapToResume": "Tap to resume",
+  "soundOn": "Sound on",
+  "soundOff": "Sound off",
+  "operationFailed": "Could not complete the operation. Please try again."
+}

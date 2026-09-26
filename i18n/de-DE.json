@@ -1,0 +1,20 @@
+{
+  "title": "LUMEN",
+  "tagline": "Führe den Schwarm. Entkomme den Schatten.",
+  "tapToPlay": "Berühren und ziehen zum Steuern",
+  "hint": "Ziehe, um den Schwarm zu führen, sammle die Funken und weiche den Schatten aus",
+  "score": "Punkte",
+  "peak": "Höchststand",
+  "best": "Rekord",
+  "games": "Runden",
+  "newRecord": "Neuer Rekord!",
+  "playAgain": "Nochmal spielen",
+  "share": "Teilen",
+  "shareText": "Ich habe einen Lichtschwarm auf {score} in LUMEN auf RoqueOS geführt! ✦",
+  "shareSaved": "Rekord-Bild gespeichert! Teile es mit deinen Freunden.",
+  "paused": "Pausiert",
+  "tapToResume": "Tippe zum Fortsetzen",
+  "soundOn": "Ton an",
+  "soundOff": "Ton aus",
+  "operationFailed": "Vorgang konnte nicht abgeschlossen werden. Bitte erneut versuchen."
+}

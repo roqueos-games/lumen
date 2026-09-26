@@ -1,0 +1,20 @@
+{
+  "title": "LUMEN",
+  "tagline": "引导光群，逃离暗影。",
+  "tapToPlay": "触摸并拖动来引导",
+  "hint": "拖动引导光群, 收集火花，躲避暗影",
+  "score": "得分",
+  "peak": "峰值",
+  "best": "最佳",
+  "games": "局数",
+  "newRecord": "新纪录！",
+  "playAgain": "再玩一次",
+  "share": "分享",
+  "shareText": "我在RoqueOS的LUMEN里把光群引导到了{score}！✦ 你能更高吗？",
+  "shareSaved": "纪录图片已保存！快分享给朋友吧。",
+  "paused": "已暂停",
+  "tapToResume": "点击继续",
+  "soundOn": "声音开",
+  "soundOff": "声音关",
+  "operationFailed": "无法完成此操作，请重试。"
+}

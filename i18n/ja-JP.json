@@ -1,0 +1,20 @@
+{
+  "title": "LUMEN",
+  "tagline": "群れを導き、影から逃げろ。",
+  "tapToPlay": "タッチしてドラッグで誘導",
+  "hint": "ドラッグで群れを導こう, 光の粒を集め、影をかわせ",
+  "score": "スコア",
+  "peak": "ピーク",
+  "best": "ベスト",
+  "games": "プレイ回数",
+  "newRecord": "新記録！",
+  "playAgain": "もう一度",
+  "share": "シェア",
+  "shareText": "RoqueOSのLUMENで光の群れを{score}まで導いた！✦ 超えられる？",
+  "shareSaved": "記録の画像を保存しました！友達とシェアしよう。",
+  "paused": "一時停止",
+  "tapToResume": "タップして再開",
+  "soundOn": "サウンドオン",
+  "soundOff": "サウンドオフ",
+  "operationFailed": "操作を完了できませんでした。もう一度お試しください。"
+}

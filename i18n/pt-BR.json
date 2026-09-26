@@ -1,0 +1,20 @@
+{
+  "title": "LUMEN",
+  "tagline": "Guie o enxame. Fuja das sombras.",
+  "tapToPlay": "Toque e arraste para guiar",
+  "hint": "Arraste para guiar o enxame, colete as fagulhas e desvie das sombras",
+  "score": "Pontos",
+  "peak": "Pico",
+  "best": "Recorde",
+  "games": "Partidas",
+  "newRecord": "Novo recorde!",
+  "playAgain": "Jogar de novo",
+  "share": "Compartilhar",
+  "shareText": "Guiei um enxame de luzes até {score} no LUMEN do RoqueOS! ✦ Consegue mais?",
+  "shareSaved": "Imagem do recorde salva! Compartilhe com os amigos.",
+  "paused": "Pausado",
+  "tapToResume": "Toque para continuar",
+  "soundOn": "Som ligado",
+  "soundOff": "Som desligado",
+  "operationFailed": "Não foi possível concluir a operação. Tente novamente."
+}
